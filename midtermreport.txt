@@ -7,12 +7,7 @@ CSC 480 | 02/27/2018
 
 1. Introduction: 
 Restaurant Food Delivery and Pickup System (RFDPS) is an online food ordering for a small restaurant/food trucks, which is based on an idea 
-	through which user can order their food using this website. A customer can view the menu, search for the list of menu, view pricing information, 
-	and select the menu. Also, customers have an option to pay online or at the restaurant. A customer can sign-up and log in the app and get the 
-	benefit of the reward system. It allows a customer to get it delivered up to 10-mile radius from the restaurant. Online ordering is a game changer 
-	for a restaurant, which can attract many customers by providing convenient and faster service. With the technology evolving in every sector, online 
-	food ordering system has become popular in the modern restaurant industry to compete within the market and to serve customers in a better way. And 
-	we believe this design will serve the purpose. 
+through which user can order their food using this website. A customer can view the menu, search for the list of menu, view pricing information, and select the menu. Also, customers have an option to pay online or at the restaurant. A customer can sign-up and log in the app and get the benefit of the reward system. It allows a customer to get it delivered up to 10-mile radius from the restaurant. Online ordering is a game changer for a restaurant, which can attract many customers by providing convenient and faster service. With the technology evolving in every sector, online food ordering system has become popular in the modern restaurant industry to compete within the market and to serve customers in a better way. And we believe this design will serve the purpose. 
 
 2. Individual Role
    Gandeev Niraula- System Architecture, Web Page Design and Development
